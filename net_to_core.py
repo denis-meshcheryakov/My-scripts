@@ -6,7 +6,6 @@
 import ipaddress
 from netmiko import ConnectHandler
 import netmiko
-#from getpass import getpass
 
 n = input('''Если хотите добавить подсеть, нажмите Enter
 Введите подсети и нажмите Enter:
